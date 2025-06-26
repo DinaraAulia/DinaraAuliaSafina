@@ -15,7 +15,7 @@ function App() {
             Saya mempunyai ketertarikan dalam bidang Programming dan Designer, terutama pada pembuatan Website dan Desain UI/UX, mengubah ide menjadi antarmuka yang interaktif dan fungsional adalah bagian favorit saya dari proses kreatif ini.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
+            <a href="public\assets\CV_Dinara Aulia Safina.pdf" download="CV_Dinara Aulia Safina.pdf" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
               Download CV <i className="ri-download-line ri-lg"></i>
             </a>
             <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">
